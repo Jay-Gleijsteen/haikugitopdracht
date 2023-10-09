@@ -9,7 +9,7 @@ function Haiku1(){
 }
     function Haiku2(){
         console.log("haiku by:","Docent");
-        console.log("Panda in the mist");
+        console.log("From time to time The clouds give rest To the moon-beholders");
         console.log("Gently chewing on bamboo");
         console.log("Perfect breakfast time");
     }

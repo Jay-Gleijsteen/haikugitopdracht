@@ -16,7 +16,7 @@ function Haiku1(){
         function Haiku3(){
             console.log("haiku by:","Docent");
     console.log("Panda in the mist");
-    console.log("Gently chewing on bamboo");
+    console.log("In the twilight rain these brilliant-hued hibiscus - A lovely sunset");
     console.log("Perfect breakfast time");
 }
     

@@ -3,7 +3,7 @@
 //plak hier de haiku functions onder elkaar
 function Haiku1(){
     console.log("haiku by:","Docent");
-    console.log("Panda in the mist");
+    console.log("An old silent pond... A frog jumps into the pond, splash! Silence again.");
     console.log("Gently chewing on bamboo");
     console.log("Perfect breakfast time");
 }
